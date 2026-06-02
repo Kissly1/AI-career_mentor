@@ -63,4 +63,5 @@ open AICareerMentor.xcodeproj
 ```
 
 3. Build & Run:
+
 Select an iPhone simulator (iOS 16.0+ recommended) and press Cmd + R.
